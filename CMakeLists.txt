@@ -23,6 +23,7 @@ set(CXX_FLAGS
  -Wpointer-arith
  -Wshadow
  -Wwrite-strings
+ -Wno-unused-variable
  -march=native
  # -MMD
  -std=c++0x
